@@ -9,7 +9,7 @@ MAX is array length.Queue is a arrya.Rear is a rear pointer.Front is a front poi
 ![App Screenshot](https://github.com/rm10078/DSA_IN_C_progmming/blob/main/QUEUE/images/slide_5.jpg?raw=true)
 
 
-## Insert Algorithm INSERT()
+## LQ Insert Algorithm INSERT()
 
 1.if(rear==max) \
     print("Queue is full.")\
@@ -22,7 +22,7 @@ MAX is array length.Queue is a arrya.Rear is a rear pointer.Front is a front poi
 3.end if\
 4.stop\
 
-## Delete Algorithm DELETE()
+## LQ Delete Algorithm DELETE()
 
 Queue is a array of max element. \
 This algorithm for delete data from queue. 
@@ -35,7 +35,7 @@ This algorithm for delete data from queue.
 3.end if\
 4.stop\
 
-## Traverse Algorithm TRAVERSE()
+## LQ Traverse Algorithm TRAVERSE()
 
 Queue is a array of max element. This algorithm we diplay all item.
 
