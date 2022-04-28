@@ -1,0 +1,42 @@
+                    📒📒Algo for linear queue📒📒
+
+📒 Algorithm for insert data in linear queue
+
+Queue is a array of max element.
+This algorithm for insert the item in Queue.
+
+1.if(rear==max)
+    print("Queue is full.")
+2.else
+    rear=rear+1
+    queue[rear]=item
+    print("Item inserted")
+    if(front=-1)
+      front=front+1
+3.end if
+4.stop
+
+📒 Algorithm for delete data from Queue
+
+Queue is a array of max element. 
+This algorithm for delete data from queue.
+
+1.if(front=-1 or front>rear)
+    print("The queue is empty")
+  else
+    rear=rear-1
+    print("rear item removed.")
+3.end if
+4.stop
+
+📒 Algorithm for Traverse
+
+Queue is a array of max element. This algorithm we diplay all item.
+
+1.if(front==-1 or rear<front)
+    print("The queue is element.")
+  else
+    repeat i=front to rear
+        print Queue[rear]
+2.end if
+3.stop
