@@ -1,0 +1,12 @@
+                    📂Bubble sort Algorithm📂
+Bubble sort is a sorting algorithm that compares two adjacent elements and 
+swaps them util they are not in the intended order.
+
+data[] is array, si is size of array.
+
+1.reapeat j=0 to j<si-1
+    reapeat i=0 to i<si-j-1
+        if(data[i]>data[i+1])
+            swap data[i] with data[i+1]
+        end if
+2.stop
